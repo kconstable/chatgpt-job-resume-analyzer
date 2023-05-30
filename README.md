@@ -1,0 +1,1 @@
+# chatgpt-job-resume-analyzer
